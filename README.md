@@ -4,7 +4,7 @@ The number of restaurants is increasing day by day. Currently it stands at appro
 The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the establishment of different types of restaurant at different places in Bengaluru, aggregate rating of each restaurant. 
 
 ## During my analysis I want to analyze and answer the following questions and more:
-- 1.Does the location of the restaurant affect the cost of the meal?
+- i. Does the location of the restaurant affect the cost of the meal?
 - 2. Does a category of restaurant receive higher ratings compared to other?
 - 3. Do restaurants with online ordering receive higher ratings?
 - 4. Does the rating affect the price of the restaurant?
